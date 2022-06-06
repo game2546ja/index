@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .header{
+        width : 100%; 
+        height: 300px;
+        background: url(../ing/patipan waewpet.png).gif;
+    }
+    .navbar{
+    width: 50%;
+    height: 500px;
+    background-color: aquamarine;
+    }
+    .content{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(160, 33, 149);
+    }
+    li{
+    float: left;
+    margin: 15px 35px;
+    list-style: none;
+    }
+    li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    }
+    
